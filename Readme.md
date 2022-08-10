@@ -47,7 +47,7 @@ Dr. Nina Hubig
 ### Datasets: 
     The input dataset retrieved from three sources as follows:
     1- GRDC website
-    2- NCDS website
+    2- NCDC website
     3- CAMELS dataset
 
 ### Reports: 
