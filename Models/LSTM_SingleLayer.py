@@ -6,7 +6,6 @@ Created on Sat Oct 17 20:20:55 2020
 @author: Nushrat
 """
 
-
 import numpy
 from numpy import array
 import pandas as pd
