@@ -24,7 +24,6 @@ from pathlib import Path
 import os
 from sklearn.model_selection import train_test_split
 
-
 p = Path('/home/nhumair/CPSC8810-Mining-Massive-Data/Models/SA/SA_new')
 for fn in p.glob("*.csv"):
     print(os.path.basename(fn))
