@@ -5,7 +5,6 @@
 @author: Nushrat
 """
 
-
 import numpy
 from numpy import array
 import pandas as pd
